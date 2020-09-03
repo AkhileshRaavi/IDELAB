@@ -29,7 +29,7 @@ namespace myApp
     {
         static void Main()
         {
-            Console.WriteLine("Hello Khoushik!");
+            Console.WriteLine("Hello Akhil!");
         }
     }
 }
@@ -46,7 +46,7 @@ namespace myApp
     {
         static void Main()
         {
-            var name = "Khoushik";
+            var name = "Akhil";
             Console.WriteLine("Hello " + name + "!");
         }
     }
@@ -64,7 +64,7 @@ namespace myApp
     {
         static void Main()
         {
-            var name = "Khoushik";
+            var name = "Akhil";
             Console.WriteLine($"Hello {name}!");
         }
     }
@@ -82,7 +82,7 @@ namespace myApp
     {
         static void Main()
         {
-            var name = "Khoushik";
+            var name = "Akhil";
             Console.WriteLine($"Hello {name.ToUpper()}!");
         }
     }
